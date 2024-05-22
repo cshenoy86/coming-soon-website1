@@ -1,1 +1,1 @@
-# coming-soon-website1
+#This is the code when the website link is not present.
